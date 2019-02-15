@@ -1,6 +1,6 @@
-# [Viaduct](https://www.dropbox.com/s/o6btlspwmfig45l/Viaduct-Short-Presentation-Tomasz-Palczewski.pdf?dl=0)
+# [Analysis of the walking activity dataset](https://www.dropbox.com/s/o6btlspwmfig45l/Viaduct-Short-Presentation-Tomasz-Palczewski.pdf?dl=0)
 
-Viaduct Data Challenge / Jan 30th 2019
+Jan 30th 2019
 
 Author: Tomasz Palczewski, Artificial Intelligence Fellow at [Insight Data Science](https://www.insightdata.ai)
 
