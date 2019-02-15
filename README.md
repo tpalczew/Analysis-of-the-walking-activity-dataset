@@ -8,5 +8,7 @@ Presentation: https://www.dropbox.com/s/w8n628g6g8q6037/Analysis-of-the-Walking-
 
   
   1) Performed basic data analysis of the walking activity dataset ([link](https://bit.ly/2G8aHx1))
-  2) Developed a full pipeline for ML and DL algorithms to recognize users based on their walking patterns
+  2) Developed a full pipeline for ML and DL algorithms to recognize users via their walking patterns
   3) Presented code shows only a proof of concept for ML/DL application in this area 
+  4) Code was created during a one day data challenge
+ 
